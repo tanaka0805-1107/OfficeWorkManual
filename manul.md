@@ -17,3 +17,4 @@ aaaiii
 
 </br>
 追記　大石
+追記  田中 16:37 mainブランチの manual.md 
